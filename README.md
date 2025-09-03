@@ -1,4 +1,4 @@
-<h1>Merhaba 👋, Ben Mustafa Enes</h1>
+<h1>Merhaba👋 Ben Mustafa Enes</h1>
 <p>Bilgisayar Mühendisiyim</p>
 <h2>🚀</h2>
 
