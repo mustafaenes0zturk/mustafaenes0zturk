@@ -17,6 +17,6 @@
   </div>
 
   <div style="flex: 0;">
-    <img src="profil.png" alt="Profil Fotoğrafı" width="220">
+    <img src="0.png" alt="0" width="220">
   </div>
 </div>
