@@ -1,22 +1,17 @@
-<div style="display: flex; align-items: center; gap: 20px;">
-  <div style="flex: 1;">
-    <h1>Merhaba 👋 Ben Mustafa Enes</h1>
-    <p>
-      Bilgisayar mühendisi olarak yazılım geliştirme odaklı bir kariyer hedefliyorum.
-      Eğitim sürecimde yazılım geliştirme, sistem analizi ve veri yapıları konularında bilgi ve deneyim kazandım.
-      Demiryaka Holding Metal Matris'te yaptığım staj ile teorik bilgimi pratikle birleştirme ve iş süreçlerine uyum sağlama fırsatı buldum.
-      Şu anda backend teknolojileri üzerinde yoğunlaşıyor ve bu alanda uzmanlaşmayı hedefliyorum.
-      Takım çalışmasına yatkınlığım ve problem çözme yeteneklerimle yenilikçi projelere katkı sağlamaya hazırım.
-    </p>
+<h1>Merhaba 👋 Ben Mustafa Enes</h1>
 
-    <p>
-      <a target="_blank" href="https://www.linkedin.com/in/mustafaenesozturk">
-        <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="LinkedIn" />
-      </a>
-    </p>
-  </div>
+<p>
+Bilgisayar mühendisi olarak yazılım geliştirme odaklı bir kariyer hedefliyorum.
+Eğitim sürecimde yazılım geliştirme, sistem analizi ve veri yapıları konularında bilgi ve deneyim kazandım.
+Demiryaka Holding Metal Matris'te yaptığım staj ile teorik bilgimi pratikle birleştirme ve iş süreçlerine uyum sağlama fırsatı buldum.
+Şu anda backend teknolojileri üzerinde yoğunlaşıyor ve bu alanda uzmanlaşmayı hedefliyorum.
+Takım çalışmasına yatkınlığım ve problem çözme yeteneklerimle yenilikçi projelere katkı sağlamaya hazırım.
+</p>
 
-  <div style="flex: 0;">
-    <img src="0.png" alt="0" width="220">
-  </div>
-</div>
+<p>
+<a href="https://www.linkedin.com/in/mustafaenesozturk" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6">
+</a>
+</p>
+
+<img src="0.png" width="220" alt="0">
